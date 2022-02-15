@@ -1,0 +1,5 @@
+https://www.kaggle.com/alakaaay/diabetes-uci-dataset
+https://www.kaggle.com/gargmanas/pima-indians-diabetes
+https://www.kaggle.com/brandao/diabetes?select=diabetic_data.csv
+https://www.kaggle.com/tigganeha4/diabetes-dataset-2019
+https://www.kaggle.com/mohith2409/diabetes?select=diabetic_data.csv

@@ -61,10 +61,10 @@ Major states in India with Diabetes :
 Uttar Pradesh, Maharashtra, Tamil Nadu, Karnataka, Kerala, Andhra Pradesh are states with more - people above age 50, more internet users, and more people belonging to middle class ( *from EDA of inpatients_statistics_2018.csv )
 
 #### Good count of targeted patients
-Tamil Nadu - potential patient count - 100,360
-Kerala - Potential patient count - 93,702
-Maharashtra - potential patient count - 84,000
-Andhra Pradesh - Potential patient count - 46,116
+1.Tamil Nadu - potential patient count - 100,360
+2. Kerala - Potential patient count - 93,702
+3. Maharashtra - potential patient count - 84,000
+4. Andhra Pradesh - Potential patient count - 46,116
 
 ### Finding out potential patient count for diabetesregion ( Districts) :
 
@@ -136,9 +136,10 @@ For a full body checkup we can consider all the regions mentioned above. As ther
 ## Pricing : 
 Pricing can range between Rs.400 to Rs.800 to be affordable for patients. As we saw in earlier points. In Chennai as a metro city, pricing can be increased compared to Madurai and Trivandrum.
 Also the device can vary between Rs.1500 to Rs. 2500. It will be affordable as it will serve patients for at least 5 years.These are starting pricing ranges as it’s an early market scenario.
-Potential customer base in the early market is 100k round off values of all services included for target customers.
+##### Potential customer base in the early market is 100k round off values of all services included for target customers.
 Potential Customer Base * Your Target Price Range = Potential Profit
-hence, 100k * Rs. 800 = Rs. 8,00,00,000.
+hence, 
+##### 100k * Rs. 800 = Rs. 8,00,00,000.
 So Potential profit is Rs. 8 crores. If we need to work out and crack competition as given above and build strong trust and relation with customers as given above. Then this can be successful in the early market and will hustle in coming years. 
 
 

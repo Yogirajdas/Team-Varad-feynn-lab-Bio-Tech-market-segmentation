@@ -128,18 +128,58 @@ So as patients are equally spread across India in terms of count and also for di
  
 ### For Vitamins - 
 A high overall prevalence (52%) of vitamin D deficiency was observed in the analysis. There was a significant difference in the prevalence of vitamin D insufficiency between rural and urban subjects (P < 0.05) and among the subjects pursuing different occupations (P < 0.001). A significant gender-specific difference was also recorded at the cut-off level of 25 (OH) D, with women showing higher prevalence of deficiency compared to men (P < 0.05).
+As per NFHS 4 (2015-16), nearly half (53%) of the children under 5 years of age in Jharkhand received Vitamin A supplementation in the past six months. Comprehensive National Nutrition Survey, 2017 reveals that the prevalence of Vitamin A deficiency in Jharkhand is 42.3% among children aged 1-4 years. Hence Vitamin A is an essential nutrition intervention for the state and biannual rounds are aimed at higher coverage of Vitamin A. While in punjab and  uttarakhand Vitamin D deficiencies are found the most 52.1% and 46.4% respectively and their population is 3.07 Crore and 4.09 Crore respectively. Hence we get patient count-
+
+1.Punjab - 15,994,700
+2.Jharkhand - 18,977,600
+
+In Punjab 62.52% of the population lives in Urban areas and 37.48% lives in Rural areas. In Jharkhand ⅓ of the population is tribal.
+
+Punjab - 9,999,886
+Jharkhand - 6,325,866
+
+Punjab and jharkhand has 70% and 29% people use internet hence( here we consider/estimate that tribes may not have internet or mobile access)
+
+Target customer for Punjab will be 6,999,920
+Target customer for jharkhand will be 1,834,501 
+Hence total customers - 8,834,421
+
+Deducting the count for other accessibility issues approx. 80 lakhs. With health drives and injection camps the government is trying to solve this big issue and will cover a big count in action. Still this vitamins deficiency checkup is necessary in such drives, to take follow ups.  
+Target regions - Punjab, Uttarakhand, Jharkhand are target regions as they have more no. of people facing vitamins deficiencies. 
 
 ### For Full body checkup - 
 
 For a full body checkup we can consider all the regions mentioned above. As there we found specific blood pressure, diabetes, vitamins deficiency patients along with some others patients who require checkup. So those patients along with categories can be included for full body checkup. 
 
 ## Pricing : 
-Pricing can range between Rs.400 to Rs.800 to be affordable for patients. As we saw in earlier points. In Chennai as a metro city, pricing can be increased compared to Madurai and Trivandrum.
-Also the device can vary between Rs.1500 to Rs. 2500. It will be affordable as it will serve patients for at least 5 years.These are starting pricing ranges as it’s an early market scenario.
-##### Potential customer base in the early market is 100k round off values of all services included for target customers.
+Pricing can range between Rs.600 to Rs.1000 to be affordable for patients. As we saw in earlier points. In Chennai as a metro city, pricing can be increased compared to Madurai and Trivandrum.
+Also the device can vary between Rs.1800 to Rs. 2800. It will be affordable as it will serve patients for at least 5 years.These are starting pricing ranges as it’s an early market scenario.
+### For home checkups - 
+Potential customer base in the early market for diabetes (district wise as given in target region section) is approx. 130k
 Potential Customer Base * Your Target Price Range = Potential Profit
-hence, 
-##### 100k * Rs. 800 = Rs. 8,00,00,000.
-So Potential profit is Rs. 8 crores. If we need to work out and crack competition as given above and build strong trust and relation with customers as given above. Then this can be successful in the early market and will hustle in coming years. 
+#### hence, 130k * Rs. 800 = Rs. 104,000,000.
+So Potential profit is Rs. 10 crores 40 lakhs.
+
+Potential customer base in the early market for blood pressure (district wise as given in target region section) is approx. 200k
+Potential Customer Base * Your Target Price Range = Potential Profit
+#### hence, 200k * Rs. 800 = Rs. 160,000,000.
+So Potential profit is Rs. 16 crores. 
+
+Potential customer base in the early market for vitamins deficiency (district wise as given in target region section) is approx. 80 lakhs
+Potential Customer Base * Your Target Price Range = Potential Profit
+#### hence, 80 lakhs * Rs. 800 = Rs. 6,400,000,000.
+So Potential profit is Rs. 6 billion and 400 million.
+
+A full body checkup will have the same numbers as diabetes or blood pressure cases
+
+### For Device selling - .
+The sales wont be matching to sales of home checkup services, as one device is sold, customers would again buy it after 5-6 at least. Hence retention rate would be low. Hence price will also vary between Rs. 1500 to Rs. 2500. Hence considering the scenario of early markets, the revenue model can be 60% - 40% or more recommended as 80%-20% of home service and device selling respectively. With experience, trust and brand awareness this ration can change.
+So its profit as calculated above would be approx. Rs. 4 - 5 crores for these services.
+
+
+## This is a surprisingly big amount but, In terms of making, traveling, and business costs, manufacturing, distribution the profit from actual sales will be less. It is needed to look at gross margins, net profit after subtraction of costs and salaries. But some customers are already acquired by competitors so as given in above points of strategy, we must take steps so that customers will prefer us more.
+
+If we work out and crack competition as given above and build strong trust and relation with customers as given in above strategy point, this can be successful in the early market and will grow in coming years.
+ 
 
 

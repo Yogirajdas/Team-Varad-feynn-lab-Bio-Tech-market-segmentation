@@ -177,7 +177,7 @@ The sales wont be matching to sales of home checkup services, as one device is s
 So its profit as calculated above would be approx. Rs. 4 - 5 crores for these services.
 
 
-## This is a surprisingly big amount but, In terms of making, traveling, and business costs, manufacturing, distribution the profit from actual sales will be less. It is needed to look at gross margins, net profit after subtraction of costs and salaries. But some customers are already acquired by competitors so as given in above points of strategy, we must take steps so that customers will prefer us more.
+## This is a surprisingly big amount but, In terms of making, traveling, and business costs, manufacturing, distribution the profit from actual sales will reduce. It is needed to look at gross margins, net profit after subtraction of costs and salaries. But some customers are already acquired by competitors so as given in above points of strategy, we must take steps so that customers will prefer us more.
 
 If we work out and crack competition as given above and build strong trust and relation with customers as given in above strategy point, this can be successful in the early market and will grow in coming years.
  

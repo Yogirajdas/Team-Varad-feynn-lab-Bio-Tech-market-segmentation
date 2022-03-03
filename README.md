@@ -32,18 +32,19 @@ For vitamins we didn't find a better dataset describing patients characteristics
 
 ### For diabetes - 
 Major states in India with Diabetes :
- 1. Tamil Nadu: 13% of urban and 3.5% of rural population is suffering from diabetes.
+1. Tamil Nadu: 13% of urban and 3.5% of rural population is suffering from diabetes.
 2. Kerala: The most cases of diabetes in Kerala fall under the 45 to 69 years category. That counts to 19.4% of people suffering from Diabetes.
- 3. Gujarat: That accounts for 7.1% of diabetic cases in Gujarat for India.
- 4. Chandigarh:  has about 13.6% of prevalence of diabetes.
- 5. Tripura:  too has been reported with 9.1% of its history with diabetes. The GDP is somewhere above 2000 US dollars.
- 6. Maharashtra: The state has revealed about 8.4% of prevalence of diabetes in the ratio of GDP reaching 2500 US dollar.
+3. Gujarat: That accounts for 7.1% of diabetic cases in Gujarat for India.
+4. Chandigarh:  has about 13.6% of prevalence of diabetes.
+5. Tripura:  too has been reported with 9.1% of its history with diabetes. The GDP is somewhere above 2000 US dollars.
+6. Maharashtra: The state has revealed about 8.4% of prevalence of diabetes in the ratio of GDP reaching 2500 US dollar.
 7. Andhra Pradesh:  has reported 8.4% of diabetes prevalence
            # State - population - patient count - internet users - patient internet users
 
 
  
           From data we have gathered above stats.
+          
 1. We know how many % Population is having diabetes so we found the patient count.
 2. We don't know how many % internet users have diabetes, but we took estimation with same % as for population then found Patients count using internet
 3.  Our target segment will have patients above age 50-60.
@@ -52,17 +53,22 @@ Major states in India with Diabetes :
 6. The internet user count is: no. of households using the internet.
 7. Hence as 1 person from 1 household being above age 50. We can consider this internet using household count as count of people above age 50.
 8. Hence we found a patient count who uses the internet and is above age 50 as a Patient internet user.
-Hence we found
+
+#### Hence we found
+
 1. Overall patient count (column - “Patient count whole”)
 2. Patients using the internet and above age 50 (column - “Patient internet users”)
 Uttar Pradesh, Maharashtra, Tamil Nadu, Karnataka, Kerala, Andhra Pradesh are states with more - people above age 50, more internet users, and more people belonging to middle class ( *from EDA of inpatients_statistics_2018.csv )
-Good count of targeted patients
+
+#### Good count of targeted patients
 Tamil Nadu - potential patient count - 100,360
 Kerala - Potential patient count - 93,702
 Maharashtra - potential patient count - 84,000
 Andhra Pradesh - Potential patient count - 46,116
-Finding out potential patient count region ( Districts) :
-Tamil Nadu-
+
+### Finding out potential patient count for diabetesregion ( Districts) :
+
+#### Tamil Nadu-
 
 These are states with more - people above age 50, more internet users, and more people belonging to middle class 
  
@@ -78,41 +84,43 @@ No. of patients of all types including diabetes (referring to inpatients_statist
 6. Salem - 5,45,694
 So considering these numbers and 4 characteristics of people above age 50, more internet users, and more people belonging to middle class
 
-Good count of targeted patients districts in Tamil Nadu ( 100,360 Target Potential patient count for state)
+#### Good count of targeted patients districts in Tamil Nadu ( 100,360 Target Potential patient count for state)
 1. Chennai
 2. Coimbatore
 3. Madurai
 These are the target region for diabetes
 From Tamil Nadu considering all features listed and states above these districts are potential market for diabetes and also for full body checkup ( as 66.43% patients having diabetes also suffer other diseases) [*see target segment of diabetes].
 
-Kerala-
+#### Kerala-
 These are states with more - people above age 50, more internet users, and more people belonging to middle class - Trivandrum, Ernakulam, Thrissur
  
 We didn't found proper dataset showing patients count per district but from research we found
 1. Pathanamthitta district of Kerala has the maximum number of diabetics—16 per cent people in the district suffer from the lifestyle disease
 2. Prevalence of type 2 diabetes among a group of urban residents in Trivandrum city in Kerala is very high. This is associated also with a high detection rate and compliance to treatment.
 so considering these numbers and 4 characteristics of people above age 50, more internet users, and more people belonging to middle class
-Good count of targeted patients districts in Kerala.
+#### Good count of targeted patients districts in Kerala.
 Pathanamthitta
 Trivandrum (Thiruvananthapuram)
 are the target region for diabetes. From Kerala considering all features listed and states above these districts are potential market for diabetes and also for full body checkup ( as 66.43% patients having diabetes also suffer other diseases) [*see target segment of diabetes].
  
 ### For Heart related issues/Disease - 
-Results:
+#### Results:
 Disability Affected Life Years (DALYs) is a measure of overall disease burden, expressed as the number of years lost due to ill-health, disability or early death.
 While the rate of DALYs for ischemic heart disease was 3,062 per 100,000 people for India, it was the highest in Punjab (5,759) followed by Tamil Nadu (4,788) and Haryana (4,244).
 Other states with higher DALYs than the national average were Andhra Pradesh (4,023), Maharashtra (3,658), Karnataka (3,892) and Gujarat (3,736).
-Target Regions:
+
+#### Target Regions:
 Punjab, Tamil Nadu, Andhra Pradesh (Preferred Southern Part of India)
+
  
 ### For Blood Pressure - 
-Results:
+#### Results:
 Overall prevalence for hypertension in India was 29.8% (95% confidence interval: 26.7–33.0).
 Significant differences in hypertension prevalence were noted between rural and urban parts [27.6% (23.2–32.0) and 33.8% (29.7–37.8); P = 0.05]. Regional estimates for the prevalence of hypertension were as follows: 14.5% (13.3–15.7), 31.7% (30.2–33.3), 18.1% (16.9–19.2), and 21.1% (20.1–22.0) for rural north, east, west, and south India; and 28.8% (26.9–30.8), 34.5% (32.6–36.5), 35.8% (35.2–36.5), and 31.8% (30.4–33.1) for urban north, east, west, and south India, respectively.
 Overall estimates for the prevalence of awareness, treatment, and control of BP were 25.3% (21.4–29.3), 25.1% (17.0–33.1), and 10.7% (6.5–15.0) for rural Indians; and 42.0% (35.2–48.9), 37.6% (24.0–51.2), and 20.2% (11.6–28.7) for urban Indians.
-Conclusion:
+#### Conclusion:
 About 33% of urban and 25% of rural Indians are hypertensive. Of these, 25% rural and 42% urban Indians are aware of their hypertensive status. Only 25% rural and 38% of urban Indians are being treated for hypertension. One-tenth of rural and one-fifth of urban Indian hypertensive population have their BP under control.
-Target Regions:
+#### Target Regions:
         	As we can see BP is prevailing in all the places over India with very small variations in rural and urban regions.
 From the data, we have north and south regions having small variations in rural and urban regions, east and west regions are similar in rural and urban regions.
 Any region is good for setting up the service for blood pressure. In the east and western parts setting the service in urban regions has an added advantage.

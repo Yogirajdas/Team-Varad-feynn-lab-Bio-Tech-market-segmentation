@@ -10,7 +10,7 @@ Diabetes checkup device,
 Vitamins deficiency checkup device. 
 We needed to analyze the medical market in India for these products and services, Study the general traits of customers using data and market segmentation, to come up with a strategy to enter the market. Finding out how to have more customers, retain customers, make more sales, and find methods so that customers will prefer us more using Geographic, Demographic, Psychographic, Behavioral factors.
 
-## target segment from data :
+## Target segments from data :
 
 ### For diabetes -
 

@@ -43,8 +43,7 @@ Major states in India with Diabetes :
 
 ![targetting states](https://user-images.githubusercontent.com/78293363/156491619-7eaea709-bc10-475f-88ca-a3cf64de4e74.png)
 
- 
-          From data we have gathered above stats.
+ From data we have gathered above stats.
           
 1. We know how many % Population is having diabetes so we found the patient count.
 2. We don't know how many % internet users have diabetes, but we took estimation with same % as for population then found Patients count using internet

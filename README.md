@@ -41,6 +41,7 @@ Major states in India with Diabetes :
 7. Andhra Pradesh:  has reported 8.4% of diabetes prevalence
            # State - population - patient count - internet users - patient internet users
 
+![targetting states](https://user-images.githubusercontent.com/78293363/156491619-7eaea709-bc10-475f-88ca-a3cf64de4e74.png)
 
  
           From data we have gathered above stats.
@@ -121,7 +122,7 @@ Overall estimates for the prevalence of awareness, treatment, and control of BP 
 #### Conclusion:
 About 33% of urban and 25% of rural Indians are hypertensive. Of these, 25% rural and 42% urban Indians are aware of their hypertensive status. Only 25% rural and 38% of urban Indians are being treated for hypertension. One-tenth of rural and one-fifth of urban Indian hypertensive population have their BP under control.
 #### Target Regions:
-        	As we can see BP is prevailing in all the places over India with very small variations in rural and urban regions.
+As we can see BP is prevailing in all the places over India with very small variations in rural and urban regions.
 From the data, we have north and south regions having small variations in rural and urban regions, east and west regions are similar in rural and urban regions.
 Any region is good for setting up the service for blood pressure. In the east and western parts setting the service in urban regions has an added advantage.
 So as patients are equally spread across India in terms of count and also for diabetes and heart related issues we are getting Tamil nadu as the best region to start with considering various factors of age, living class, internet accessibility, etc. for blood pressure also we can start with Tamil nadu.
